@@ -1,0 +1,14 @@
+build/
+**/*.o
+.vscode/
+.cache/
+.DS_Store
+CMakeFiles/
+CMakeCache.txt
+Basic-Demo-64bit
+Basic-Demo-64bit-For-Mac
+Makefile
+cmake_install.cmake
+code
+attached_test
+scope_test
